@@ -20,11 +20,9 @@ Uber generates large volumes of trip data daily, making it difficult to manually
 ---
 
 ## Tools & Technologies Used
-- Microsoft Excel / Power BI
-- Pivot Tables
-- Pivot Charts
-- Data Cleaning
-- Slicers & Filters
+- Microsoft Power BI
+- Dax
+- Visuals
 - KPI Cards
 
 ---
